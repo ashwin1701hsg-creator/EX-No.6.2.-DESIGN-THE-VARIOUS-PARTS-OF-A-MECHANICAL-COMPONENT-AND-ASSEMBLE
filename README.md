@@ -49,5 +49,11 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 
+
+![AUTODESK 12_page-0001](https://github.com/user-attachments/assets/a2668711-23ef-4075-b379-64b033c3c055)
+
+
+
+
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
